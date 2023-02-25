@@ -1,0 +1,244 @@
+[
+    {
+        "productservice": "New York Times",
+        "description": "Free access to the New York Times website and mobile app.",
+        "link": "http://nytimesaccess.com/usc",
+        "cost": "Free",
+        "sponsor": "Graduate Student Government"
+    },
+    {
+        "productservice": "Legal Counseling",
+        "description": "Free consultations on legal matters.",
+        "link": "https://gsg.usc.edu/resources/free-legal-aid/",
+        "cost": "Free",
+        "sponsor": "Graduate Student Government"
+    },
+    {
+        "productservice": "LA Times",
+        "description": "Free 1-year digital subscription",
+        "link": "https://my.usc.edu/los-angeles-times/",
+        "cost": "Free",
+        "sponsor": "President Carol Folt"
+    },
+    {
+        "productservice": "HBO Max",
+        "description": "Select \"Univ of Southern California\" from the TV provider list.",
+        "link": "http://hbomax.com",
+        "cost": "Free",
+        "sponsor": "USC Housing"
+    },
+    {
+        "productservice": "USC Housing Law Clinic",
+        "description": "The USC Housing Law Clinic provides free professional legal services to community residents in the areas of housing discrimination, local affordable housing issues, and landlord/tenant dispute resolution. ",
+        "link": "https://communities.usc.edu/usc-housing-clinic/",
+        "cost": "Free",
+        "sponsor": "USC Civic Engagement"
+    },
+    {
+        "productservice": "Cell Phone Plans (AT&T, Sprint, Verizon)",
+        "description": "Discounted plans for students using the links on the ITS website.",
+        "link": "https://itservices.usc.edu/mobilephone/",
+        "cost": "Discounts",
+        "sponsor": "USC ITS"
+    },
+    {
+        "productservice": "HIV Testing",
+        "description": "Free HIV testing at the USC Student Health Center.",
+        "link": "https://studenthealth.usc.edu/undergraduate-student-government-funds-coverage-of-hiv-testing-at-usc-student-health/",
+        "cost": "Free",
+        "sponsor": "Undergraduate Student Government"
+    },
+    {
+        "productservice": "LastPass",
+        "description": "USC ITS offers a free premium subscription to the password manager software.",
+        "link": "https://trojansecure.usc.edu/password-manager/",
+        "cost": "Free",
+        "sponsor": "USC ITS"
+    },
+    {
+        "productservice": "Free Software",
+        "description": "Free software including MATLAB, RefWorks, Qualtrics, Endnote, and Sophos (Antivirus).",
+        "link": "https://software.usc.edu/free-to-campus/",
+        "cost": "Free",
+        "sponsor": "USC ITS"
+    },
+    {
+        "productservice": "Microsoft Office 365",
+        "description": "Free subscription for Microsoft for desktop and mobile, including Microsoft Word, PowerPoint, and Excel.",
+        "link": "https://itservices.usc.edu/office/",
+        "cost": "Free ",
+        "sponsor": "USC ITS"
+    },
+    {
+        "productservice": "Lyft",
+        "description": "The USC Safe Ride program offers free Lyft rides within the USC patrol zone from 7 am to 2 am seven days a week.",
+        "link": "https://transnet.usc.edu/index.php/about-usc-safe-ride-program/",
+        "cost": "Free",
+        "sponsor": "USC Transportation"
+    },
+    {
+        "productservice": "Spotify",
+        "description": "Recieve Spotify Premium, Hulu, and Showtime for $4.99/month.",
+        "link": "https://www.spotify.com/us/student/",
+        "cost": "$4.99/month",
+        "sponsor": "Spotify"
+    },
+    {
+        "productservice": "Amazon Prime",
+        "description": "6-month free trial, then 50% off Amazon Prime",
+        "link": "https://www.amazon.com/Amazon-Student/b?ie=UTF8&node=668781011",
+        "cost": "$59.50/year after 6 month free tiral",
+        "sponsor": "Amazon"
+    },
+    {
+        "productservice": "Movie tickets",
+        "description": "Discounted AMC and Regal theater tickets are available from the USC Ticket Office",
+        "link": "https://ticketoffice.usc.edu/for-the-usc-community/attractions-and-entertainment/",
+        "cost": "Discount",
+        "sponsor": "USC Ticket Office"
+    },
+    {
+        "productservice": "Theme park tickets",
+        "description": "Discounted Universal Studios Hollywood and Knotts Berry Farm tickets are available from the USC TIcket Office.",
+        "link": "https://ticketoffice.usc.edu/for-the-usc-community/attractions-and-entertainment/",
+        "cost": "Discount",
+        "sponsor": "USC Ticket Office"
+    },
+    {
+        "productservice": "LA Metro U-Pass",
+        "description": "Discounted Metro bus/rail pass for graduate students",
+        "link": "https://transnet.usc.edu/index.php/student-u-pass/",
+        "cost": "~$130/semester",
+        "sponsor": "USC Transportation"
+    },
+    {
+        "productservice": "Nike",
+        "description": "20% student discoiunt",
+        "link": "https://www.nike.com/help/a/student-discount",
+        "cost": "Discount",
+        "sponsor": "Nike"
+    },
+    {
+        "productservice": "Headspace",
+        "description": "Free Headspace Subscription (Mindfulness/meditation app) for LA residents until December 31, 2020",
+        "link": "https://work.headspace.com/lacdmhresidents/member-enroll",
+        "cost": "Free",
+        "sponsor": "LA County Department of Mental Health"
+    },
+    {
+        "productservice": "Headspace",
+        "description": "Discounted Headspace subscription (Mindfulness/mediation app) for students. ",
+        "link": "https://www.headspace.com/studentplan",
+        "cost": "$9.99/year",
+        "sponsor": "Headspace"
+    },
+    {
+        "productservice": "Film Screening",
+        "description": "Free film screenings as part of th \"Out of the Box [Office] Series\"",
+        "link": "https://cinema.usc.edu/events/event.cfm?id=54705",
+        "cost": "Free",
+        "sponsor": "USC Cinematic Arts"
+    },
+    {
+        "productservice": "USC Visions and Voices",
+        "description": "Free concerts, performances, and events.",
+        "link": "https://visionsandvoices.usc.edu",
+        "cost": "Free",
+        "sponsor": "USC Visions and Voices"
+    },
+    {
+        "productservice": "Wall Street Journal",
+        "description": "Free Wall Street Journal subscription for website and app.",
+        "link": "https://education.wsj.com/search-students/",
+        "cost": "Free"
+    },
+    {
+        "productservice": "Mindful USC",
+        "description": "Free mindfulness classes and app.",
+        "link": "https://mindful.usc.edu/classes/",
+        "cost": "Free",
+        "sponsor": "Mindful USC"
+    },
+    {
+        "productservice": "Exercise/Fitness Classes",
+        "description": "Free Barre, Zumba, Boxing, and other classes.",
+        "link": "https://recsports.usc.edu/programs-classes/fitness/group-ex-classes/",
+        "cost": "Free",
+        "sponsor": "USC Recreational Sports"
+    },
+    {
+        "productservice": "LinkedIn Learning",
+        "description": "Formerly Lynda.com, free courses on topics such as busines, technology, design, and creative topics.",
+        "link": "https://itservices.usc.edu/linkedin-learning/",
+        "cost": "Free",
+        "sponsor": "USC ITS"
+    },
+    {
+        "productservice": "USC Credit Union",
+        "description": "Checking account with no monthly fee, 2 free incoming wire transfers per year, and free ATM access at over 30,000 ATMs.",
+        "link": "https://www.usccreditunion.org/microsites/students/checking-and-savings.html",
+        "cost": "Free",
+        "sponsor": "USC Credit Union"
+    },
+    {
+        "productservice": "Microsoft Azure Students",
+        "description": "Includes Windosw 10 and VS2019 keys.",
+        "link": "https://azure.microsoft.com/en-us/developer/students/",
+        "cost": "Free",
+        "sponsor": "Microsoft",
+        "undefined": "/u/salty-carthaginian"
+    },
+    {
+        "productservice": "Jet Brains",
+        "description": "Free educational licenses.",
+        "link": "https://www.jetbrains.com/community/education/#students",
+        "cost": "Free",
+        "sponsor": "Jet Brains",
+        "undefined": "/u/salty-carthaginian"
+    },
+    {
+        "productservice": "GitHub",
+        "description": "Student Developer Pack: Free GitHub pro and links to other discounts (1 year of Canva Pro, 1 year .me domain name registration).",
+        "link": "https://education.github.com/pack",
+        "cost": "Free",
+        "sponsor": "GitHub",
+        "undefined": "/u/salty-carthaginian"
+    },
+    {
+        "productservice": "Autodesk",
+        "description": "Free educational licenses to Autocad and thier other software.",
+        "link": "https://www.autodesk.com/education/home",
+        "cost": "Free",
+        "sponsor": "Autodesk",
+        "undefined": "/u/salty-carthaginian"
+    },
+    {
+        "productservice": "Apple Music",
+        "description": "Discounted rate for 48 months.",
+        "link": "https://support.apple.com/en-us/HT205928",
+        "cost": "$4.99/month for 48 months",
+        "sponsor": "Apple",
+        "undefined": "/u/fathersoysauce"
+    },
+    {
+        "productservice": "USC Libraries",
+        "description": "The USC Libraries have free access to countless books - I like to search for the ISBN for a course textbook to see if I can access it for free in the electronic collections.",
+        "link": "https://libguides.usc.edu/ebooks",
+        "cost": "Free",
+        "sponsor": "USC Libraries"
+    },
+    {
+        "productservice": "USC Surplus Sales",
+        "description": "Buy used chairs, tables, furniture, etc preivously used in residence halls and offices. Sometimes they sell cars! Currently closed due to COVID-19.",
+        "link": "https://procurement.usc.edu/mailing/material-management/surplus-sales/",
+        "cost": "Discounted",
+        "sponsor": "USC Surplus Sales"
+    },
+    {
+        "productservice": "On-Campus Parking",
+        "description": "Free parking permits until December 31, 2020. ",
+        "link": "https://transnet.usc.edu/index.php/parking-at-usc/",
+        "cost": "Free",
+        "sponsor": "USC Transportation"
+    }
+]
