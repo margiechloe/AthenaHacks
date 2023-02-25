@@ -4,14 +4,16 @@
         "description": "Free access to the New York Times website and mobile app.",
         "link": "http://nytimesaccess.com/usc",
         "cost": "Free",
-        "sponsor": "Graduate Student Government"
+        "sponsor": "Graduate Student Government",
+        "image": "https://images.app.goo.gl/vVMXpHxP6vZkHS79A"
     },
     {
         "productservice": "Legal Counseling",
         "description": "Free consultations on legal matters.",
         "link": "https://gsg.usc.edu/resources/free-legal-aid/",
         "cost": "Free",
-        "sponsor": "Graduate Student Government"
+        "sponsor": "Graduate Student Government",
+        "image": "https://images.app.goo.gl/Le2C6Q7Z7agb3iuB8"
     },
     {
         "productservice": "LA Times",
