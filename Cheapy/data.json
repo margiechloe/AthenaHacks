@@ -4,56 +4,49 @@
         "description": "Free access to the New York Times website and mobile app.",
         "link": "http://nytimesaccess.com/usc",
         "cost": "Free",
-        "sponsor": "Graduate Student Government",
-        "image": "https://images.app.goo.gl/vVMXpHxP6vZkHS79A"
+        "sponsor": "Graduate Student Government"
     },
     {
         "productservice": "Legal Counseling",
         "description": "Free consultations on legal matters.",
         "link": "https://gsg.usc.edu/resources/free-legal-aid/",
         "cost": "Free",
-        "sponsor": "Graduate Student Government",
-        "image": "https://images.app.goo.gl/Le2C6Q7Z7agb3iuB8"
+        "sponsor": "Graduate Student Government"
     },
     {
         "productservice": "LA Times",
         "description": "Free 1-year digital subscription",
         "link": "https://my.usc.edu/los-angeles-times/",
         "cost": "Free",
-        "sponsor": "President Carol Folt",
-        "image": "https://images.app.goo.gl/WyNvw3cAmWdECfDa6"
+        "sponsor": "President Carol Folt"
     },
     {
         "productservice": "HBO Max",
         "description": "Select \"Univ of Southern California\" from the TV provider list.",
         "link": "http://hbomax.com",
         "cost": "Free",
-        "sponsor": "USC Housing",
-        "image": "https://images.app.goo.gl/rxh39C3k181CGeSv6"
+        "sponsor": "USC Housing"
     },
     {
         "productservice": "USC Housing Law Clinic",
         "description": "The USC Housing Law Clinic provides free professional legal services to community residents in the areas of housing discrimination, local affordable housing issues, and landlord/tenant dispute resolution. ",
         "link": "https://communities.usc.edu/usc-housing-clinic/",
         "cost": "Free",
-        "sponsor": "USC Civic Engagement",
-        "image": "https://images.app.goo.gl/DT1J9SpWh837oVoJ9"
+        "sponsor": "USC Civic Engagement"
     },
     {
         "productservice": "Cell Phone Plans (AT&T, Sprint, Verizon)",
         "description": "Discounted plans for students using the links on the ITS website.",
         "link": "https://itservices.usc.edu/mobilephone/",
         "cost": "Discounts",
-        "sponsor": "USC ITS",
-        "image": "https://images.app.goo.gl/3SeRhQjuc2yQpj1B9"
+        "sponsor": "USC ITS"
     },
     {
         "productservice": "HIV Testing",
         "description": "Free HIV testing at the USC Student Health Center.",
         "link": "https://studenthealth.usc.edu/undergraduate-student-government-funds-coverage-of-hiv-testing-at-usc-student-health/",
         "cost": "Free",
-        "sponsor": "Undergraduate Student Government",
-        "image": "https://images.app.goo.gl/TxofLttejSrKWmqy9"
+        "sponsor": "Undergraduate Student Government"
     },
     {
         "productservice": "LastPass",
