@@ -1,0 +1,20 @@
+[
+    {
+        "productservice": "Boba Tea",
+        "link": "https://www.usccasa.org/sponsors",
+        "cost": "10% Off",
+        "sponsor": "Pot of Cha"
+    },
+    {
+        "productservice": "Chinese Restaurant",
+        "link": "https://www.usccasa.org/sponsors",
+        "cost": "Free Drink with spent over $25, Free Cold Appetizer item with spent over $35",
+        "sponsor": "Northern Cafe"
+    },
+    {
+        "productservice": "Boba Tea and Snacks",
+        "link": "https://www.usccasa.org/sponsors",
+        "cost": "10% Off",
+        "sponsor": "Cup O' Joy"
+    }
+]

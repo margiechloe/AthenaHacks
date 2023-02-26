@@ -1,0 +1,68 @@
+[
+    {
+        "productservice": "Hot Pot",
+        "link": "https://docs.google.com/document/d/1A_Vl3hWMzl6yPkxL61ymxQ0yr0YSEc52BtlyBcNKGK8/edit",
+        "cost": "10% Off",
+        "sponsor": "Boiling Point"
+    },
+    {
+        "productservice": "Boba Tea",
+        "link": "https://docs.google.com/document/d/1A_Vl3hWMzl6yPkxL61ymxQ0yr0YSEc52BtlyBcNKGK8/edit",
+        "cost": "10% Off",
+        "sponsor": "Bubble U"
+    },
+    {
+        "productservice": "Fresh Drinks",
+        "link": "https://docs.google.com/document/d/1A_Vl3hWMzl6yPkxL61ymxQ0yr0YSEc52BtlyBcNKGK8/edit",
+        "cost": "10% Off",
+        "sponsor": "Citeadrinks"
+    },
+    {
+        "productservice": "Boba Tea and Snacks",
+        "link": "https://docs.google.com/document/d/1A_Vl3hWMzl6yPkxL61ymxQ0yr0YSEc52BtlyBcNKGK8/edit",
+        "cost": "10% Off",
+        "sponsor": "Cup O' Joy"
+    },
+    {
+        "productservice": "Vietnamese Dishes",
+        "link": "https://docs.google.com/document/d/1A_Vl3hWMzl6yPkxL61ymxQ0yr0YSEc52BtlyBcNKGK8/edit",
+        "cost": "10% Off",
+        "sponsor": "Downtown LA Pho"
+    },
+    {
+        "productservice": "Hot Pot",
+        "link": "https://docs.google.com/document/d/1A_Vl3hWMzl6yPkxL61ymxQ0yr0YSEc52BtlyBcNKGK8/edit",
+        "cost": "20% Off M-F before 4 pm on Dishes Only",
+        "sponsor": "Haidilao Hot Pot"
+    },
+    {
+        "productservice": "Printing",
+        "link": "https://docs.google.com/document/d/1A_Vl3hWMzl6yPkxL61ymxQ0yr0YSEc52BtlyBcNKGK8/edit",
+        "cost": "10% Off",
+        "sponsor": "Indie Printing"
+    },
+    {
+        "productservice": "Matcha Drinks",
+        "link": "https://docs.google.com/document/d/1A_Vl3hWMzl6yPkxL61ymxQ0yr0YSEc52BtlyBcNKGK8/edit",
+        "cost": "10% Off",
+        "sponsor": "Junbi"
+    },
+    {
+        "productservice": "Vietnamese Dishes",
+        "link": "https://docs.google.com/document/d/1A_Vl3hWMzl6yPkxL61ymxQ0yr0YSEc52BtlyBcNKGK8/edit",
+        "cost": "10% Off",
+        "sponsor": "KTown Pho"
+    },
+    {
+        "productservice": "Bubble Tea",
+        "link": "https://docs.google.com/document/d/1A_Vl3hWMzl6yPkxL61ymxQ0yr0YSEc52BtlyBcNKGK8/edit",
+        "cost": "10% Off",
+        "sponsor": "Little Fluffy Head Cafe"
+    },
+    {
+        "productservice": "Bubble Tea",
+        "link": "https://docs.google.com/document/d/1A_Vl3hWMzl6yPkxL61ymxQ0yr0YSEc52BtlyBcNKGK8/edit",
+        "cost": "10% Off",
+        "sponsor": "Milk + T"
+    }
+]
